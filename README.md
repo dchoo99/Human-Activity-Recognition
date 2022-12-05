@@ -2,6 +2,8 @@
 
 ## Project Description
 
+Link to dataset: http://archive.ics.uci.edu/ml/datasets/Smartphone-Based+Recognition+of+Human+Activities+and+Postural+Transitions
+
 Every year, an estimated 684,000 deaths occur globally due to [falls](https://www.who.int/news-room/fact-sheets/detail/falls). Hence, the motivation behind this project is to detect falls through postural changes.
 
 Our approach to this problem is to focus on detecting 2 postural changes, **SIT_TO_LIE** and **STAND_TO_LIE**, as accurately as possible. We want to maximize accuracy and **minimize False Negatives** for both classes.
