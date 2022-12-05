@@ -1,4 +1,4 @@
-# AY22/23 SEM1 CS3244 Project Title: Human Activity Recognition
+# Project Title: Human Activity Recognition
 
 ## Project Description
 
