@@ -40,9 +40,9 @@ We **did not** choose the SVM or Logistic Regression model as the best classifie
 ## Team Contributers
 1. [Choo Wei Jie, Darren](https://github.com/dchoo99)
 2. [Han Jiaxu](https://github.com/itsmejx)
-3. Daryl Ang
-4. Sarah Tan
-5. Teo Zhi Hao
+3. [Daryl Ang](https://github.com/cambrian-dk)
+4. [Teo Zhi Hao](https://github.com/Yttruire)
+5. Sarah Tan
 6. Kelvin Foo
 
 ## Mentor
