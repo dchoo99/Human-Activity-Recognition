@@ -30,3 +30,30 @@ Machine Learning Techniques used:
 | CNNLSTM | 91.4% | 91.2% | 92.0% | 91.0% |
 
 ## Final CNNLSTM Model Architecture
+![Screenshot 2022-12-05 225923](https://user-images.githubusercontent.com/101163864/205669061-4d0fd0ee-11fd-43a4-877f-908cff5c6020.png)
+
+## Final Model
+We **did not** choose the SVM or Logistic Regression model as the best classifiers because they were trained on features that have been engineered (using their statistics eg: mean, standard deviation, interquartile range etc.), which meant that the performance was **very specific to this particular experimental setting**. To generalize to a more practical use case, we relied on the raw signals. Hence, the CNNLSTM model was the best performing model on raw signals. However, although it was the best performing, it had a **higher False Negative rate**. Therefore, more work has to be done on this model for this specific problem setting. Nevertheless, it is still **effective and competent** in detecting human activities in general and can be used for other applications.
+
+## Team Contributers
+1. [Choo Wei Jie, Darren](https://github.com/dchoo99)
+2. [Han Jiaxu](https://github.com/itsmejx)
+3. Daryl Ang
+4. Sarah Tan
+5. Teo Zhi Hao
+6. Kelvin Foo
+
+## Mentor
+Tian Fang
+
+## Referenced Work:
+1. 
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
