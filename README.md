@@ -47,13 +47,30 @@ We **did not** choose the SVM or Logistic Regression model as the best classifie
 Tian Fang
 
 ## Referenced Work:
-1. 
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1. https://www.cdc.gov/falls/data/fall-deaths.html
+2. https://www.who.int/news-room/fact-sheets/detail/falls
+3. https://www.who.int/news-room/fact-sheets/detail/falls
+4. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8321307/
+5. https://www.researchgate.net/publication/221313120
+6. https://archive.ics.uci.edu/ml/datasets/Smartphone-Based+Recognition+of+Human+Activities+and+Postural+Transitions
+7. https://www.kaggle.com/code/jillanisofttech/human-activity-recognition-with-smartphones-99-acc
+8. https://www.kaggle.com/code/essammohamed4320/human-activity-recognition-scientific-prespective
+9. https://www.kaggle.com/code/abeerelmorshedy/human-activity-recognition
+10. https://www.kaggle.com/code/fahadmehfoooz/human-activity-recognition-with-neural-networks
+11. A CNN-LSTM Approach to Human Activity Recognition by Ronald Mutegeki & Dong Seog Han
+12. https://doi.org/10.1016/j.neucom.2015.07.085
+13. StatQuest
+14. https://stats.stackexchange.com/questions/369104/what-is-a-sensible-order-for-parameter-tuning-in-neural-networks
+15. https://arxiv.org/abs/1609.04836
+16. Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep learning. The MIT Press
+17. https://link.springer.com/chapter/10.1007/978-3-642-10690-3_3
+18. https://machinelearningmastery.com/convolutional-layers-for-deep-learning-neural-networks
+19. https://stats.stackexchange.com/questions/208936/what-is-translation-invariance-in-computer-vision-and-convolutional-neural-network
+20. https://machinelearningmastery.com/pooling-layers-for-convolutional-neural-networks
+21. https://medium.com/neuronio/an-introduction-to-convlstm-55c9025563a7
+22. https://paperswithcode.com/method/convlstm
+23. https://towardsdatascience.com/perturbation-theory-in-deep-neural-network-dnn-training-adb4c20cab1b
+24. https://www.analyticsvidhya.com/blog/2021/03/introduction-to-long-short-term-memory-lstm
+25. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4570352/
+26. https://ieeexplore.ieee.org/document/6063364
+27. https://keras.io/api
