@@ -2,7 +2,7 @@
 
 ## Project Description
 
-[Link to dataset]([http://archive.ics.uci.edu/dataset/240/human+activity+recognition+using+smartphones])
+[Link to dataset](http://archive.ics.uci.edu/dataset/240/human+activity+recognition+using+smartphones)
 
 Every year, an estimated 684,000 deaths occur globally due to [falls](https://www.who.int/news-room/fact-sheets/detail/falls). Hence, the motivation behind this project is to detect falls through postural changes.
 
